@@ -43,7 +43,8 @@ Members are active contributors who have been granted membership in the [opensea
 
 ### Requirements
 
-- **Sponsorship from one maintainer** of the candidate. The sponsor vouches for the candidate's interest in the project and adherence to the [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
+- **Demonstrated activity** in one or more repositories of the organization. Examples include merged pull requests, high-quality issue reports and reproductions, code reviews, participation in issue triage, and documentation improvements.
+- **Sponsorship from one maintainer** for the candidate. The sponsor vouches for the candidate's interest in the project and adherence to the [Code of Conduct](https://github.com/opensearch-project/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### Privileges
 
